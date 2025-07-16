@@ -10,8 +10,9 @@ This repository contains the implementation and analysis for Assignment 3. The g
 - `deterministic_quicksort.py`: Implementation of Deterministic Quicksort (first element as pivot).
 - `hashtable_chaining.py`: Implementation of a hash table using chaining.
 - `test_cases.py`: Runs performance tests and demonstrates functionality.
-- `analysis_report.docx`: Report containing theoretical analysis, empirical comparison, results table, and conclusion.
+- `analysis_report.pdf`: Report containing theoretical analysis, empirical comparison, results table, and conclusion.
 - `README.md`: Instructions and summary.
+- `analysis_report.docx`
 
 ## How to Run
 
